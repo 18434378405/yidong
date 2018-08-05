@@ -1,0 +1,51 @@
+@import url(base.css);
+.header{
+	width: 2.22rem;
+	height: 2.22rem;
+	background: red;
+    margin: auto;
+    margin-top: 2.24rem;
+}
+.header img{
+	width: 100%;
+	height: 100%;
+	background: #fff;
+}
+.box{
+	width: 1.43rem;
+	height: 0.18rem;
+	background: #fff;
+	margin: auto;
+	margin-top: 0.49rem;
+}
+.box li{
+	font-size: 0.18rem;
+	text-align: center;
+	line-height: 0.18rem;
+	color: #f6cb35;
+}
+.box1{
+	width: 5rem;
+	height: 0.70rem;
+	margin: auto;
+	margin-top: 4.75rem;
+    border-radius: .35rem;
+    background: linear-gradient(to right,#3e9dff,#41c3ff);
+    box-shadow: 0 10px 40px 0 rgba(46, 136, 220, .75);
+}
+.box2{
+	width: 5rem;
+	height: 0.70rem;
+	background: #13d868;
+	margin: auto;
+	margin-top: 0.46rem;
+	border-radius: 0.30rem;
+	background: linear-gradient(to right,#33d07d,#3de43d);
+	box-shadow: 0 10px 40px 0 rgba(57, 219, 88, .75);
+}
+.box1 li,.box2 li{
+	font-size: 0.27rem;
+	color: #e1f6fd;
+	text-align: center;
+	line-height: 0.70rem;
+}
