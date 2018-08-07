@@ -1,12 +1,12 @@
 @import url(base.css);
 body{
-	background: #13e15b;
+	background: #c41818;
 	overflow: hidden;
 }
 .header{
 	width: 0.91rem;
 	height: 0.28rem;
-	background: #13e15b;
+	background: #c41818;
 	margin: auto;
 	margin-top: 1.46rem;
 }
@@ -17,13 +17,14 @@ body{
 .header-down{
 	width: 2.47rem;
     height: 0.22rem;
-    background: #13e15b;
+    background: #c41818;
     margin: auto;
     margin-top: 0.23rem;
+    margin-left: 2.8rem;
 }
 .header-down p{
     font-size: 0.22rem;
-    color: #90e5b6;
+    color: #dc8c8c;
 }
 .header1{
 	width: 3.45rem;
@@ -37,7 +38,7 @@ body{
 .circle{
 	width: 13rem;
 	height: 8.5rem;
-	background: #13e15b;
+	background: #c41818;
 	position: relative;
 }
 .circle img{
@@ -49,13 +50,11 @@ body{
 .circle1{
 	width: 3.67rem;
 	height: 0.7rem;
-	background: red;
+	background: #e9e9e9;
     position: absolute;
     top: 5.3rem;
     left: 1.88rem;
     border-radius: 0.3rem;
-    background: linear-gradient(to right,#ffad37,#ffce37);
-	box-shadow: 0 10px 40px 0 rgba(255, 192, 55, .75);
 }
 .circle1 p{
 	font-size: 0.23rem;

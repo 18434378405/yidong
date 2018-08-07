@@ -1,0 +1,59 @@
+@import url(base.css);
+.header{
+	width: 3.78rem;
+    height: 4.98rem;
+    background: #f8f8f8;
+    border: 6px solid #c8c8c8;
+    margin: 2.47rem auto;
+}
+.header-down{
+	width: 1.1rem;
+	height: 0.16rem;
+	background: #fbfbfb;
+	margin-left: 3.16rem;
+	margin-top: 0.57rem;
+	display: flex;
+	justify-content: space-between;
+}
+.header1{
+	width: 0.16rem;
+	height: 0.16rem;
+	background: #d1f0e4;
+	border-radius: 50%;
+}
+.header6{
+	width: 0.16rem;
+	height: 0.16rem;
+	background: #7cdbb5;
+	border-radius: 50%;
+}
+.header3{
+	width: 0.16rem;
+	height: 0.16rem;
+	background: #27c487;
+	border-radius: 50%;
+}
+.header4{
+	width: 0.16rem;
+	height: 0.16rem;
+	background: #7cdbb5;
+	border-radius: 50%;
+}
+.header5{
+	width: 0.16rem;
+	height: 0.16rem;
+	background: #d1f0e4;
+	border-radius: 50%;
+}
+.header2{
+	width: 1.76rem;
+	height: 0.23rem;
+	background: #fbfbfb;
+	margin-top: 0.25rem;
+	margin-left: 2.8rem;
+}
+.header2 h3{
+	font-size: 0.23rem;
+	color: #252525;
+	font-weight: normal;
+}

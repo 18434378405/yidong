@@ -1,0 +1,20 @@
+@import url(base.css);
+.header{
+	width: 3.78rem;
+    height: 4.98rem;
+    background: #f8f8f8;
+    border: 6px solid #c8c8c8;
+    margin: 2.47rem auto;
+}
+.header2{
+	width: 1.76rem;
+	height: 0.23rem;
+	background: #fbfbfb;
+	margin-top: 0.98rem;
+	margin-left: 2.91rem;
+}
+.header2 h3{
+	font-size: 0.23rem;
+	color: #010101;
+	font-weight: normal;
+}
