@@ -1,0 +1,126 @@
+@import url(base.css);
+.header{
+	width: 4.08rem;
+	height: 4.08rem;
+	background: #fff;
+	margin: auto;
+	margin-top: 1.29rem;
+	position: relative;
+}
+.header img{
+	width: 4.08rem;
+	height: 4.08rem;
+}
+.header-up{
+	width: 0.67rem;
+	height: 0.67rem;
+	background: blue;
+	border-radius: 50%;
+	position: absolute;
+    top: 1.24rem;
+    left: 1.71rem;
+    background: linear-gradient(to right,#33d07d,#3de43d);
+	box-shadow: 0 10px 40px 0 rgba(57, 219, 88, .75);
+}
+.header-down{
+	width: 1.24rem;
+	height: 0.6rem;
+	background: blue;
+	border-radius: 0.3rem;
+	position: absolute;
+	top: 2.03rem;
+	left: 1.42rem;
+	background: linear-gradient(to right,#33d07d,#3de43d);
+	box-shadow: 0 10px 40px 0 rgba(57, 219, 88, .75);
+}
+.header1{
+	width: 3.75rem;
+	height: 0.27rem;
+	background: #fff;
+	position: absolute;
+	top: 3.96rem;
+	left: 0.2rem;
+}
+.header1 h3{
+	font-size: 0.27rem;
+	color: #33d14d;
+	text-align: center;
+}
+.header2{
+	width: 3.4rem;
+	height: 0.21rem;
+	background: #fff;
+	margin-top: 0.22rem;
+	margin-left: 2.1rem;
+}
+.header2 h4{
+	font-size: 0.21rem;
+	color: #b0b0b0;
+}
+.header3{
+	width: 5.43rem;
+	height: 0.21rem;
+	background: #fff;
+	margin-left: 1.05rem;
+	margin-top: 1.38rem;
+	border-bottom: 1px solid red;
+	padding-bottom: 0.4rem;
+}
+.header4{
+	width: 0.18rem;
+	height: 0.08rem;
+	background: #ababab;
+	border-radius: 0.3rem;
+	float: left;
+	margin-left: 0.38rem;
+	margin-top: 0.15rem;
+}
+.header3 input{
+	margin-top: 0;
+	border: none;
+	margin-left: 0.24rem;
+	padding-bottom: 0.17rem;
+	font-size: 0.22rem;
+	color: #d4d4d4;
+}
+input::-webkit-input-placeholder{
+	color: #f86363;
+}
+.header3 a{
+	display: block;
+    float: right;
+    margin-right: 38px;
+    color: #c2c2c2;
+}
+.header5{
+	width: 3.67rem;
+	height: 0.71rem;
+	background: #e9e9e9;
+	border-radius: 0.3rem;
+	margin-top: 3.05rem;
+	margin-left: 1.92rem;
+}
+.header5 h3{
+	font-size: 0.22rem;
+	color: #c5c5c5;
+	text-align: center;
+	line-height: 0.71rem;
+}
+.header6{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+.header6 img{
+	width: 0.38rem;
+	height: 0.38rem;
+	margin-left: 1.91rem;
+	margin-top: 0.49rem;
+}
+.header6 p{
+	font-size: 0.26rem;
+	position: absolute;
+	top: 0.5rem;
+	left: 2.5rem;
+	color: #f86363;
+}

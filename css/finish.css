@@ -1,0 +1,59 @@
+@import url(base.css);
+.header{
+	width: 5.53rem;
+	height: 3.8rem;
+	background: #fff;
+	margin: auto;
+	margin-top: 4.86rem;
+    position: relative;
+}
+.header img{
+	display: block;
+	width: 5.53rem;
+	height: 3.8rem;
+}
+.header-down{
+	width: 1.08rem;
+	height: 1.03rem;
+}
+.header-down img{
+	width: 1.08rem;
+	height: 1.03rem;
+	display: block;
+	position: absolute;
+	left: 2.25rem;
+	top: 0.50rem;
+}
+.header1{
+	width: 2.61rem;
+	height: 0.22rem;
+	background: #fff;
+}
+.header1 h3{
+	font-size: 0.22rem;
+	display: block;
+	position: absolute;
+	top: 1.7rem;
+	left: 2rem;
+	font-weight: normal;
+	color: #010101;
+}
+.header2{
+	width: 3rem;
+	height: 0.7rem;
+	background: #00ff00; 
+	position: absolute;
+	top: 2.3rem;
+    left: 1.3rem;
+	float: left;
+	border-radius: 0.30rem;
+	background: linear-gradient(to right,#33d07d,#3de43d);
+	box-shadow: 0 10px 40px 0 rgba(57, 219, 88, .75);
+}
+.header2 p{
+	font-size: 0.23rem;
+	color: #fff;
+	text-align: center;
+	line-height: 0.7rem; 
+} 
+

@@ -1,0 +1,64 @@
+@import url(base.css);
+body{
+	background: #13e15b;
+}
+.header{
+	width: 0.91rem;
+	height: 0.28rem;
+	background: #13e15b;
+	margin: auto;
+	margin-top: 1.46rem;
+}
+.header p{
+	font-size: 0.28rem;
+	color: #fefefe;
+}
+.header-down{
+	width: 2.47rem;
+    height: 0.22rem;
+    background: #13e15b;
+    margin: auto;
+    margin-top: 0.23rem;
+}
+.header-down p{
+    font-size: 0.22rem;
+    color: #90e5b6;
+}
+.header1{
+	width: 3.45rem;
+	height: 3rem;
+	margin: auto;
+}
+.header1 img{
+	width: 3.5rem;
+	height: 3.5rem;
+}
+.circle{
+	width: 13rem;
+	height: 8.5rem;
+	background: #13e15b;
+	position: relative;
+}
+.circle img{
+	width: 13rem;
+	height: 8.5rem;
+	margin-top: 2.74rem;
+	margin-left: -3rem;
+}
+.circle1{
+	width: 3.67rem;
+	height: 0.7rem;
+	background: red;
+    position: absolute;
+    top: 5.3rem;
+    left: 1.88rem;
+    border-radius: 0.3rem;
+    background: linear-gradient(to right,#ffad37,#ffce37);
+	box-shadow: 0 10px 40px 0 rgba(255, 192, 55, .75);
+}
+.circle1 p{
+	font-size: 0.23rem;
+	color: #fff;
+	text-align: center;
+	line-height: 0.7rem;
+}
